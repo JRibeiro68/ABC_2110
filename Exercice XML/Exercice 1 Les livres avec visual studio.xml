@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<livre>
+	<auteurs numero="1">
+		<nom>King</nom>
+		<prenom>Stephen</prenom>
+			<chapitre><paragraphe>paragraphe 1</paragraphe>
+			   	     <paragraphe>paragraphe 2</paragraphe></chapitre>
+			<chapitre><paragraphe>paragraphe 1</paragraphe>
+			  	     <paragraphe>paragraphe 2</paragraphe></chapitre>
+	</auteurs>
+	<auteurs numero="2">
+		<nom>Musso</nom>
+		<prenom>Guillaume</prenom>
+			<chapitre><paragraphe>paragraphe 1</paragraphe>
+				     <paragraphe>paragraphe 2</paragraphe></chapitre>
+			<chapitre><paragraphe>paragraphe 1</paragraphe>
+				      <paragraphe>paragraphe 2</paragraphe></chapitre>
+	</auteurs>
+</livre>	
