@@ -1,9 +1,18 @@
 <?xml version="1.0"?>
     <nouveaux_menus>
         <menu1 prix="15">
-            <nom type="entree">entree</nom>
-            <nom type="plat">plat</nom>
-            <nom type="dessert">dessert</nom>
+            <entree>
+                <nom>entree1</nom>
+                <description>description1</description>
+            </entree>
+            <plat>
+                <nom>plat1</nom>
+                <description>description2</description>
+            </plat>
+            <dessert>
+                <nom>dessert1</nom>
+                <description>description3</description>
+            </dessert>
         </menu1>
         <menu2 prix="20">
             <nom type="entree">entree</nom>
