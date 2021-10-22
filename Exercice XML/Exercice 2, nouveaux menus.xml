@@ -1,62 +1,62 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
     <nouveaux_menus>
         <menu numero="1" devise="euro" prix="15">
-            <contenu>1_entree_1_plat_1_dessert</contenu>
+            <contenu>1 entree, 1 plat, 1 déssert</contenu>
                 <entree>
-                    <intitule>entree1</intitule>
-                        <description>description_1</description>
+                    <intitule>entree 1</intitule>
+                        <description>description 1</description>
                 </entree>
                 <plat>
-                    <intitulé>plat_1</intitulé>
-                        <description>description_2</description>
+                    <intitulé>plat 1</intitulé>
+                        <description>description 2</description>
                 </plat>
                 <dessert>
-                    <intitule>dessert1</intitule>
-                        <description>description_3</description>
+                    <intitule>dessert 1</intitule>
+                        <description>description 3</description>
                 </dessert>
         </menu>
         <menu numero="2" devise="euro" prix="20">
-            <contenu>2_entrees_2_plats_2_desserts</contenu>
+            <contenu>2 entrees, 2 plats, 2 desserts</contenu>
                 <entree>
-                    <intitule>entree_1</intitule>
-                        <description>description_1</description>
-                    <intitule>entree_2</intitule>
-                        <description>description_4</description>
+                    <intitule>entree 1</intitule>
+                        <description>description 1</description>
+                    <intitule>entree 2</intitule>
+                        <description>description 4</description>
                 </entree>
                 <plat>
-                    <intitule>plat_1</intitule>
-                        <description>description_2</description>
-                    <intitule>plat_2</intitule>
-                        <description>description_5</description>
+                    <intitule>plat 1</intitule>
+                        <description>description 2</description>
+                    <intitule>plat 2</intitule>
+                        <description>description 5</description>
                 </plat>
                 <dessert>
-                    <intitule>dessert_1</intitule>
-                        <description>description_3</description>
-                    <intitule>dessert_2</intitule>
-                        <description>description_6</description>
+                    <intitule>dessert 1</intitule>
+                        <description>description 3</description>
+                    <intitule>dessert 2</intitule>
+                        <description>description 6</description>
                 </dessert>
         </menu>
         <menu numero="3" devise="euro" prix="30">
-            <contenu>3_entrees_3_plats_1_fromage_3_desserts</contenu>
+            <contenu>3 entrees, 3 plats, 1 fromage, 3 desserts</contenu>
                 <entree>
-                    <intitule>entree_1</intitule>
-                        <description>description_1</description>
-                    <intitule>entree_2</intitule>
-                        <description>description_4</description>
-                    <intitulé>entree_3</intitulé>
-                        <description>description_7</description>
+                    <intitule>entree 1</intitule>
+                        <description>description 1</description>
+                    <intitule>entree 2</intitule>
+                        <description>description 4</description>
+                    <intitulé>entree 3</intitulé>
+                        <description>description 7</description>
                 </entree>
                 <plat>
-                    <intitule>plat_1</intitule>
-                        <description>description_2</description>
-                    <intitule>plat_2</intitule>
-                        <description>description_5</description>
-                    <intitule>plat_3</intitule>
-                        <description>description_8</description>
+                    <intitule>plat 1</intitule>
+                        <description>description 2</description>
+                    <intitule>plat 2</intitule>
+                        <description>description 5</description>
+                    <intitule>plat 3</intitule>
+                        <description>description 8</description>
                 </plat>
                 <fromage>
-                    <intitule>fromage_1</intitule>
-                        <description>description_10</description>
+                    <intitule>fromage 1</intitule>
+                        <description>description 10</description>
                 </fromage>
                 <dessert>
                     <intitule>dessert_1</intitule>
