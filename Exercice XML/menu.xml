@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <contenu>2_entrées_3_plats_2_désserts</contenu>
+        <entree numero="1" devise="euro" prix="15"></entreenumero>
+            <intitule>steak_frite_salade</intitule>
+        </entree>
+
+</menu>
