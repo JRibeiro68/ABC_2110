@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <menu>
-    <contenu>2_entrées_3_plats_2_désserts</contenu>
+    <contenu>2 entrées, 3 plats, 2 désserts</contenu>
         <entree numero="1" devise="euro" prix="15">
-            <intitule>steak_frite_salade</intitule>
-            <description></description>
+            <intitule>steak frites salade</intitule>
+            <description>Un steak de 120 grammes accompagné de frites fraiches et quelques feuilles de salades assaisonnées</description>
         </entree>
 
 </menu>
