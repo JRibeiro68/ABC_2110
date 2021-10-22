@@ -1,28 +1,70 @@
 <?xml version="1.0"?>
     <nouveaux_menus>
-        <menu1 prix="15">
-            <entree>
-                <nom>entree1</nom>
-                <description>description1</description>
-            </entree>
-            <plat>
-                <nom>plat1</nom>
-                <description>description2</description>
-            </plat>
-            <dessert>
-                <nom>dessert1</nom>
-                <description>description3</description>
-            </dessert>
-        </menu1>
-        <menu2 prix="20">
-            <nom type="entree">entree</nom>
-            <nom type="plat">plat</nom>
-            <nom type="dessert">dessert</nom>
-        </menu2>
-        <menu3 prix="30">
-            <nom type="entree">entree</nom>
-            <nom type="plat">plat</nom>
-            <nom type="dessert">dessert</nom>
-            <nom type="fromage">fromage</nom>
-        </menu3>
+        <menu numero="1" devise="euro" prix="15">
+            <contenu>1_entree_1_plat_1_dessert</contenu>
+                <entree>
+                    <intitule>entree1</intitule>
+                        <description>description_1</description>
+                </entree>
+                <plat>
+                    <intitulé>plat_1</intitulé>
+                        <description>description_2</description>
+                </plat>
+                <dessert>
+                    <intitule>dessert1</intitule>
+                        <description>description_3</description>
+                </dessert>
+        </menu>
+        <menu numero="2" devise="euro" prix="20">
+            <contenu>2_entrees_2_plats_2_desserts</contenu>
+                <entree>
+                    <intitule>entree_1</intitule>
+                        <description>description_1</description>
+                    <intitule>entree_2</intitule>
+                        <description>description_4</description>
+                </entree>
+                <plat>
+                    <intitule>plat_1</intitule>
+                        <description>description_2</description>
+                    <intitule>plat_2</intitule>
+                        <description>description_5</description>
+                </plat>
+                <dessert>
+                    <intitule>dessert_1</intitule>
+                        <description>description_3</description>
+                    <intitule>dessert_2</intitule>
+                        <description>description_6</description>
+                </dessert>
+        </menu>
+        <menu numero="3" devise="euro" prix="30">
+            <contenu>3_entrees_3_plats_1_fromage_3_desserts</contenu>
+                <entree>
+                    <intitule>entree_1</intitule>
+                        <description>description_1</description>
+                    <intitule>entree_2</intitule>
+                        <description>description_4</description>
+                    <intitulé>entree_3</intitulé>
+                        <description>description_7</description>
+                </entree>
+                <plat>
+                    <intitule>plat_1</intitule>
+                        <description>description_2</description>
+                    <intitule>plat_2</intitule>
+                        <description>description_5</description>
+                    <intitule>plat_3</intitule>
+                        <description>description_8</description>
+                </plat>
+                <fromage>
+                    <intitule>fromage_1</intitule>
+                        <description>description_10</description>
+                </fromage>
+                <dessert>
+                    <intitule>dessert_1</intitule>
+                        <description>description_3</description>
+                    <intitule>dessert_6</intitule>
+                        <description>description_6</description>
+                    <intitule>dessert_3</intitule>
+                        <description>description_9</description>
+                </dessert>
+        </menu>
     </nouveaux_menus>
