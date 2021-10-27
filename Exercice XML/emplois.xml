@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offres_d_emplois>
     <offre_d_emploi>
-        <intitule>Développeur PHP</intitule>
+        <intitule>Développeur PHP (H/F)</intitule>
         <ville>Paris</ville>
         <description>
             <taches>Vous travaillerez sur une variété de projets autour de l'activité de MesDepanneurs.fr
@@ -21,7 +21,7 @@
         <e_mail_de_contact>mescollaborateurs_service_recrutement@hotmail.fr</e_mail_de_contact>
     </offre_d_emploi>
     <offre_d_emploi>
-        <intitule>Développeur JAVA</intitule>
+        <intitule>Développeur JAVA (H/F)</intitule>
         <ville>Mulhouse</ville>
         <description>
             <taches>Etre en étroite collaboration avec les métiers pour analyser l’aspect technique des demandes et estimer les délais de développement
@@ -44,4 +44,34 @@
         <salaire_annuel>48 000 euros</salaire_annuel>
         <e_mail_de_contact>hays_service_recrutement@hotmail.fr</e_mail_de_contact>
     </offre_d_emploi>
+    <offre_d_emploi>
+        <intitule>Développeur NodeJS (H/F)</intitule>
+        <ville>Toulouse</ville>
+        <description>
+            <taches>Enrichir les fonctionnalités techniques/fonctionnelles existantes et nouvelles
+                    Des tests unitaires et d’intégration à effectuer afin de mesurer la scalabilité
+                    Participer au maintien opérationnel du site en production (monitoring : newRelic, EFK/ELK)
+                    L’organisation est en feature-team (contact avec d’autres équipes, importance de la synergie/cohésion)
+                    Travailler sur une architecture cloud orientée AWS
+                    Qualité de code avec PHPMD/PHPCS</taches>
+            <avantages>Certification d’architecte et développeur payé par l’entreprise
+                       Prime de 1000 à 4000 euros après chaque certification obtenue
+                       Séminaire à l’étranger (Las Vegas dernièrement pour un salon dédié à la nouvelle tech)
+                       Test en avant-première de nouvelles MAJ et logiciel (nouvelles fonctionnalités en avant-première d’AWS par exemple)
+                       2 mois de participation suite aux bénéfices de l’entreprise (fixe + variable)</avantages>
+            <profil_recherche> Diplômé d’un Bac +5 en ingénierie informatique avec une spécialisation sur le développement
+                               Expérience positive de 3 ans
+                               Maîtrise du développement front-end et back-end sous l’environnement Java (JEE, Spring, Hibernate)
+                               Connaissances générales en architecture SOA</profil_recherche>
+        </description>
+        <competence-requises>Rigueur
+                             Bonnes qualitées relationnelles
+                             De bonnes compétences méthodologiques et technologiques
+                             Vous maîtrisez les bases de données telles que MySQL, Oracle, PostgreSQL et MongoDB
+                             Vous avez de solides connaissances en HTML / CSS, JavaScript, JQuery, Boostrap, REST, JSON</competence-requises>
+        <date_de_demarrage>immédiate</date_de_demarrage>
+        <salaire_annuel>42 000 euros</salaire_annuel>
+        <e_mail_de_contact>softteam_recrutement@hotmail.fr</e_mail_de_contact>
+    </offre_d_emploi>
+</offres_d_emplois>
 
