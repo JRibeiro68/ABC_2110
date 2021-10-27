@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offres_d_emplois>
+    <offre_d_emploi>
+        <intitule>Développeur PHP</intitule>
+        <ville>Paris</ville>
+        <description>
+            <taches>Vous travaillerez sur une variété de projets autour de l'activité de MesDepanneurs.fr
+                    Vous créerez et maintiendrez des fonctionnalités performantes et sécurisées sur des application Symfony à fort trafic
+                    Vous collaborez avec les autres membres de l'équipe sur la priorisation, les spécifications et les progrès attendus
+                    Vous évaluerez les nouvelles technologies et techniques pour améliorer les pratiques globales
+                    Vous créerez un code bien documenté, réutilisable et testable vous connaissez les pratiques PHP modernes, les API Symfony et RESTful, les bases de données SQL (MySQL), les microservices et le monitoring des applications</taches>
+            <avantages>remboursement transports, mutuelle entreprise, prise en charge d’une partie des déjeuners..</avantages>
+            <profil_recherche>Vous avez acquis de l'expérience dans l'ingénierie, le développement et l'évolution d'une application Web de haute qualité
+                              Vous êtes impatient d'apprendre les nouvelles technologies et avez une compréhension approfondie de l'état actuel des applications Web
+                              Bon communicant, capable d’écoute empathique et attentive, vous êtes capable d'équilibrer idéalisme et pragmatisme dans un environnement de travail dynamique pour anticiper les besoins des partenaires. Vous possédez des compétences d'autogestion avec un esprit d'amélioration continue
+                              Bonne connaissance de git et un workflow autour de GitLab</profil_recherche>
+        </description>
+        <competence-requises>Autonome, bonne capacité de communication, appréciez le travail d'équipe, rigueur, savoir travailler sous pression, être capable de s'auto-former</competence-requises>
+        <date_de_demarrage>immédiate</date_de_demarrage>
+        <salaire_annuel>entre 25788 euros et 48724 euros</salaire_annuel>
+        <e_mail_de_contact>mescollaborateurs_service_recrutement@hotmail.fr</e_mail_de_contact>
+    </offre_d_emploi>
+    <offre_d_emploi>
+        <intitule>Développeur JAVA</intitule>
+        <ville>Mulhouse</ville>
+        <description>
+            <taches>Etre en étroite collaboration avec les métiers pour analyser l’aspect technique des demandes et estimer les délais de développement
+                    Développer sur l’ensemble de la pile applicative SAP Commerce Cloud
+                    Développement front-end et back-end
+                    Assurer le développement de la plateforme web dans le contexte d’un site de vente en ligne international
+            </taches>
+            <avantages>Vous bénéficierez de primes de performance, une participation et intéressement représentant 20% de la rémunération</avantages>
+            <profil_recherche> Diplômé d’un Bac +5 en ingénierie informatique avec une spécialisation sur le développement
+                               Expérience positive de 3 ans
+                               Maîtrise du développement front-end et back-end sous l’environnement Java (JEE, Spring, Hibernate)
+                               Connaissances générales en architecture SOA</profil_recherche>
+        </description>
+        <competence-requises>Connaisance en JavaScript
+                             Bonne compréhension des flux de données
+                             Compétences en développement de web-services
+                             L’anglais est nécessaire pour ce poste
+                             Solides bases sur le développement web</competence-requises>
+        <date_de_demarrage>immédiate</date_de_demarrage>
+        <salaire_annuel>48 000 euros</salaire_annuel>
+        <e_mail_de_contact>hays_service_recrutement@hotmail.fr</e_mail_de_contact>
+    </offre_d_emploi>
+
