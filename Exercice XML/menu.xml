@@ -8,7 +8,7 @@
         <entree numero="2" devise="euros" prix="13,90">
             <intitule>L'italienne</intitule>
             <description>Fines tranches de charcuterie (Jambon fumé d'Italie, Coppa, pepperoni, bresaola) et salade mélangée, huile d'olives et vinaigres balsamique</description>
-        </entrée>
+        </entree>
         <plat numero="1" devise="euros" prix="19,90">
             <intitule>Tartare de Boeuf (200g origine France)</intitule>
             <description>Préparé à l'Italienne (vinaigre balsamique, huile d'olives du Piémont et câpres de Sicile), frites et salade verte</description>
