@@ -1,1 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<recette>
+    <nom>Crêpe bretonne</nom>
+    <temps>18 min</temps>
+    <difficulte>facile</difficulte>
+    <prix>bon marché</prix>
+    <quantite>8 personnes</quantite>
+        <version>au blé noir</version>
+            <liste_d_ingredients>
+                <ingredient>farine de blé noir</ingredient>
+                    <quantite>500g</quantite>
+                <ingredient>farine blanche</ingredient>
+                    <quantite>1 c.à.s</quantite>
+                <ingredient>sel</ingredient>
+                    <quantite>1 pincée</quantite>
+                <ingredient>lait</ingredient>
+                    <quantite>50cl</quantite>
+                <ingredient>eau</ingredient>
+                    <quantite>1L</quantite>
+            </liste_d_ingredients>
+        <version>au froment</version>
+            <liste_d_ingredients>
+                <ingredient>farine blanche</ingredient>
+                    <quantite>250g</quantite>
+                <ingredient>farine de blé noir</ingredient>
+                    <quantite>1 c.à.s</quantite>
+                <ingredient>sucre</ingredient>
+                    <quantite>140g</quantite>
+                <ingredient>sucre vanillé</ingredient>
+                    <quantite>1 sachet</quantite>
+                <ingredient>sel</ingredient>
+                    <quantite>1 pincée</quantite>
+                <ingredient>lait</ingredient>
+                    <quantite>1L</quantite>
+                <ingredient>oeufs</ingredient>
+                    <quantite>4</quantite>
+                <ingredient>beurre salé</ingredient>
+                    <quantite>40g</quantite>
+            </liste_d_ingredients>
+    <preparation>
+        <etape>etape 1 Mélanger les produits un par un dans l'ordre de la liste en faisant attention de ne pas faire de grumeaux.</etape>
+        <etape>Etape 2 Pour la pâte de blé noir, ici en Bretagne, on la travaille avec les mains, c'est plus facile pour introduire petit à petit le lait et l'eau.</etape>
+        <etape>Etape 3 Laisser reposer la pâte au moins une heure avant de faire les crêpes. Cuire la crêpe sur une face, la retourner, beurrer et garnir.</etape>
+        <etape>Etape 4 En bretagne, nous topurnons les crêpes sur une billig à 200°.</etape>
+        <etape>Etape 5 Les idées pour la garniture pour la crêpe de blé noir:</etape>
+            <etape>Etape 6 oeuf, jambon, gruyère rapé</etape>
+            <etape>Etape 7 andouille de Guéméné</etape>
+            <etape>Etape 8 chèvre, tomates</etape>
+            <etape>Etape 9 lard, compoté d'oignons</etape>
+            <etape>Etape 10 jambon,gruyère rapé</etape>
+        <etape>Etape 11 D'autres idées pour la garniture pour la crêpe au froment:</etape>
+            <etape>Etape 12 banane, chocolat</etape>
+            <etape>Etape 13 sucre</etape>
+            <etape>Etape 14 pomme</etape>
+    </preparation>
+</recette>
