@@ -1,1 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<liste_legume_maraicher>
+    <legume>Salades et jeunes pousses</legume>
+        <variete>Batavia bio verte - pièce</variete>
+            <prix>1,78e</prix>
+                <taille>moyen calibre</taille>
+        <variete>Feuille de chêne bio rouge - pièce</variete>
+            <prix>1,78e</prix>
+                <taille>moyen calibre</taille>
+        <variete>Feuille de chêne bio verte - pièce</variete>
+            <prix>1,78</prix>
+                <taille>moyen calibre</taille>
+        <variete>Laitue bio verte - pièce</variete>
+            <prix>1,78e</prix>
+                <quantite>pièce</quantite>
+        <variete>Mâche bio</variete>
+            <prix>3,08e</prix>
+                <quantite>150g</quantite>
+        <variete>Mâche bio</variete>
+            <prix>5,98e</prix>
+                <quantite>300g</quantite>
+        <variete>Roquette bio</variete>
+            <prix>2,14e</prix>
+                <quantite>150g</quantite>
+        <variete>Roquette bio</variete>
+            <prix>6,74</prix>
+                <quantite>500g</quantite>
+    <legume>Carottes</legume>
+        <variete>Carotte bio en botte</variete>
+            <prix>3,28e</prix>
+                <quantite>La botte, avec ses fanes</quantite>
+        <variete>Carotte jaune bio demeter</variete>
+            <prix>3,48e</prix>
+                <quantite>1kg</quantite>
+        <variete>Carotte jaune bio Demeter</variete>
+            <prix>1,88</prix>
+                <quantite>500g</quantite>
+        <variete>Carotte pourpre bio Demeter</variete>
+            <prix>3,48e</prix>
+                <quantite>500g</quantite>
+        <variete>Carotte pourpre bio Demeter</variete>
+            <prix>1,84e</prix>
+                <quantite>500g</quantite>
+        <variete>Carotte sablée bio Demeter</variete>
+            <prix>2,68e</prix>
+                <quantite>1kg</quantite>
+        <variete>Carotte sablée bio Demeter</variete>
+            <prix>1,68e</prix>
+                <quantite>500g</quantite>
+    <legume>pomme de terre</legume>
+        <variete>Patate douce bio</variete>
+            <prix>6,58e</prix>
+                <quantite>1kg</quantite>
+        <variete = "patate douce bio" quantite="500" devise="gramme" prix="3,64" devise="euros"/>
