@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liste_de_films>
+    <titre>Mourir peut attendre</titre>
+        <diffuse_le>lundi</diffuse_le>
+            <numero_de_salle>7</numero_de_salle>
+                <seance_a>10h30-13h45-17h00-20h15</seance_a>
+            <numero_de_salle>11</numero_de_salle>
+                <seance_a>17h50</seance_a>
+            <numero_de_salle>12</numero_de_salle>
+                <seance_a>21h50</seance_a>
+        <diffuse_le>mardi</diffuse_le>
+            <numero_de_salle>7</numero_de_salle>
+                <seance_a>10h30-13h45-17h00-20h15</seance_a>
+            <numero_de_salle>11</numero_de_salle>
+                <seance_a>17h50</seance_a>
+            <numero_de_salle>12</numero_de_salle>
+                <seance_a>21h50</seance_a>
+        <diffuse_le>mercredi</diffuse_le>
+            <numero_de_salle>7</numero_de_salle>
+                <seance_a>17h00-20h15</seance_a>
+            <numero_de_salle>11</numero_de_salle>
+                <seance_a>17h50</seance_a>
+            <numero_de_salle>12</numero_de_salle>
+                <seance_a>21h50</seance_a>
+        <diffuse_le>jeudi</diffuse_le>
+            <numero_de_salle>7</numero_de_salle>
+                <seance_a>17h00-20h15</seance_a>
+            <numero_de_salle>11</numero_de_salle>
+                <seance_a>17h50</seance_a>
+            <numero_de_salle>12</numero_de_salle>
+                <seance_a>21h50</seance_a>
+        <diffuse_le>vendredi</diffuse_le>
+            <numero_de_salle>7</numero_de_salle>
+                <seance_a>17h00-20h15</seance_a>
+            <numero_de_salle>11</numero_de_salle>
+                <seance_a>17h50</seance_a>
+            <numero_de_salle>12</numero_de_salle>
+                <seance_a>21h50</seance_a>
+        <diffuse_le>samedi</diffuse_le>
+            <numero_de_salle>7</numero_de_salle>
+                <seance_a>10h30-13h45-17h00-20h15</seance_a>
+            <numero_de_salle>11</numero_de_salle>
+                <seance_a>17h00</seance_a>
+            <numero_de_salle>12</numero_de_salle>
+                <seance_a>21h50</seance_a>
+        <diffuse_le>dimanche</diffuse_le>
+            <numero_de_salle>7</numero_de_salle>
+                <seance_a>10h30-13h45-17h00-20h15</seance_a>
+            <numero_de_salle>11</numero_de_salle>
+                <seance_a>17h50</seance_a>
+            <numero_de_salle>12</numero_de_salle>
+                <seance_a>21h50</seance_a>
+                
