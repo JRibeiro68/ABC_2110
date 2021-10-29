@@ -51,4 +51,5 @@
         <variete>Patate douce bio</variete>
             <prix>6,58e</prix>
                 <quantite>1kg</quantite>
-        <variete = "patate douce bio" quantite="500" devise="gramme" prix="3,64" devise="euros"/>
+        <legume variete = "patate douce bio" quantite="500" unite="gramme" prix="3,64" devise="euros">
+        <legume variete = "pomme de terre bio à tout faire" quantite="1" unite="Kilo" prix="3,18" devise="euros">
