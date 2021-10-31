@@ -1,1 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<Voitures_occasions>
+    <voiture marque="CITROEN" modèle="C1" année="2019" carburant="Essence" boite="Manuelle" puissance="72ch" kilometrage="13 162 kms" prix="11 490e"/>
+    <voiture marque="CITROEN" modèle="C3" année="2018" carburant="Essence" boite="Manuelle" puissance="110ch" kilometrage="30 653 kms" prix="12 490e"/>
+    <voiture marque="CITROEN" modèle="NOUVELLE C3" année="2020" carburant="Essence" boite="Manuelle" puissance="82ch" kilometrage="11 259 kms" prix="14 990e"/>
+    <voiture marque="DACIA" modèle="DUSTER" année="2019" carburant="Diesel" boite="Manuelle" puissance="115 ch" kilometrage="26 200 kms" prix="15 900e"/>
+    <voiture marque="RENAULT" modèle="CAPTUR" année="2017" carburant="Diesel" boite="Manuelle" puissance="110 ch" kilometrage="20 000 kms" prix="16 500e"/>
+    <voiture marque="CITROEN" modèle="C3 AIRCROSS" année="2018" carburant="Essence" boite="Manuelle" puissance="130 ch" kilometrage="19 500 kms" prix="16 990e"/>
+    <voiture marque="CITROEN" modèle="C3 AIRCROSS" année="2019" carburant="Essence" boite="Automatique" puissance="110 ch" kilometrage="8 426 kms" prix="18 990e"/>
+    <voiture marque="CITROEN" modèle="C3 AIRCROSS" année="2020" carburant="Essence" boite="Manuelle" puissance="110 ch" kilometrage="8 000 kms" prix="20 990e"/>
+    <voiture marque="RENAULT" modèle="SCENIC" année="2017" carburant="Diesel" boite="Automatique" puissance="160 ch" kilometrage="7 705 kms" prix="24 500e"/>
+    <voiture marque="Citroen" modèle="NOUVELLE C4" année="2021" carburant="essence" boite="AUTOMATIQUE" puissance="130 ch" kilometrage="4 000 kms" prix="29 990e"/>
+</Voitures_occasions>
