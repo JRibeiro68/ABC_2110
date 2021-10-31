@@ -53,3 +53,27 @@
                 <quantite>1kg</quantite>
         <legume variete = "patate douce bio" quantite="500" unite="gramme" prix="3,64" devise="euros">
         <legume variete = "pomme de terre bio à tout faire" quantite="1" unite="Kilo" prix="3,18" devise="euros">
+        <variete>Pomme de terre bio Charlotte à chair ferme</variete>
+            <prix>2,88e</prix>
+                <quantite>1kg</quantite>
+        <variete>Pomme de terre bio Grenaille</variete>
+            <prix>3,58e</prix>
+                <quantite>1kg</quantite>
+        <variete>Pomme de terre bio rouge Rosabelle</variete>
+            <prix>3,34e</prix>
+                <quantite>1kg</quantite>
+    <legume>Champignons</legume>
+        <variete>Champignons blancs de Paris bio</variete>
+            <prix>5,08e</prix>
+                <quantite>500g</quantite>
+        <variete>Champignons bruns de Paris bio</variete>
+            <prix>5,08e</prix>
+                <quantite>500g</quantite>
+        <variete>Champignons Shiitaké bio</variete>
+            <prix>3,58e</prix>
+                <quantite>150g</quantite>
+    <legume>Légumes racine</legume>
+       <variete>Betterave rouge bio nouvelle</variete>
+            <prix>3,94e</prix>
+                <quantite>1kg</quantite>
+        
