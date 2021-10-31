@@ -76,4 +76,74 @@
        <variete>Betterave rouge bio nouvelle</variete>
             <prix>3,94e</prix>
                 <quantite>1kg</quantite>
-        
+        <variete>Betterave rouge bio nouvelle</variete>
+            <prix>1,48e</prix>
+                <quantite>la pièce</quantite>
+        <variete>Chou rave bio</variete>
+            <prix>1,68e</prix>
+                <quantite>la pièce</quantite>
+        <variete>Navet blanc bio</variete>
+            <prix>2,58e</prix>
+                <quantite>la botte</quantite>
+        <variete>Navet jaune bio</variete>
+            <prix>2,44e</prix>
+                <quantite>500g</quantite>
+        <variete>Navet violet bio</variete>
+            <prix>2,44e</prix>
+                <quantite>500g</quantite>
+    <legume>Courges</legume>
+        <variete>Courge bio patidou</variete>
+            <prix>1,28e</prix>
+                <quantite>La pièce</quantite>
+        <variete>Courge bio potimarron</variete>
+            <prix>3,08e</prix>
+                <quantite>La pièce</quantite>
+        <variete>Courge bio spaghetti</variete>
+            <prix>4,38</prix>
+                <quantite>La pièce</quantite>
+        <variete>Courge Butternut bio</variete>
+            <prix>4,24e</prix>
+                <quantite>La pièce</quantite>
+        <variete>Courge potiron bio musquée</variete>
+            <prix>3,44e</prix>
+                <quantite>1kg</quantite>
+    <legume>Choux</legume>
+        <variete>Chou blanc bio</variete>
+            <prix>5,44e</prix>
+                <quantite>La pièce</quantite>
+        <variete>Chou brocoli bio</variete>
+            <prix>3,38e</prix>
+                <quantite>La pièce</quantite>
+        <variete>Chou bruxelles bio</variete>
+            <prix>3,38e</prix>
+                <quantite>500g</quantite>
+        <variete>Chou fleur blanc bio Breizh</variete>
+            <prix>2,98e</prix>
+                <quantite>La pièce</quantite>
+    <legume>Variétés anciennes</legume>
+        <variete>Panais bio</variete>
+            <prix>4,84e</prix>
+                <quantite>1kg</quantite>
+        <variete>Panais bio</variete>
+            <prix>1,44e</prix>
+                <quantite>La pièce</quantite>
+        <variete>Rutabaga bio</variete>
+            <prix>1,54e</prix>
+                <quantite>La pièce</quantite>
+    <legume>Aromates bio</legume>
+        <variete>Ail bio blanc sec</variete>
+            <prix>3,74e</prix>
+                <quantite>200g</quantite>
+        <variete>Ciboulette bio</variete>
+            <prix>1,94e</prix>
+                <quantite>La botte</quantite>
+        <variete>Echalotte bio</variete>
+            <prix>2,18e</prix>
+                <quantite>300g</quantite>
+        <variete>Oignon jaune bio</variete>
+            <prix>3,74e</prix>
+                <quantite>1kg</quantite>
+        <variete>Oignon rouge bio</variete>
+            <prix>5,58e</prix>
+                <quantite>1kg</quantite>
+</liste_legume_maraicher>
