@@ -51,8 +51,8 @@
         <variete>Patate douce bio</variete>
             <prix>6,58e</prix>
                 <quantite>1kg</quantite>
-        <legume variete = "patate douce bio" quantite="500" unite="gramme" prix="3,64" devise="euros">
-        <legume variete = "pomme de terre bio à tout faire" quantite="1" unite="Kilo" prix="3,18" devise="euros">
+        <legume variete = "patate douce bio" quantite="500" unite="gramme" prix="3,64" devise="euros"/>
+        <legume variete = "pomme de terre bio à tout faire" quantite="1" unite="Kilo" prix="3,18" devise="euros"/>
         <variete>Pomme de terre bio Charlotte à chair ferme</variete>
             <prix>2,88e</prix>
                 <quantite>1kg</quantite>
