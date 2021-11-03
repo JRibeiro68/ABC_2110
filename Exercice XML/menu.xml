@@ -9,19 +9,19 @@
             <intitule>L'italienne</intitule>
             <description>Fines tranches de charcuterie (Jambon fumé d'Italie, Coppa, pepperoni, bresaola) et salade mélangée, huile d'olives et vinaigres balsamique</description>
         </entree>
-        <plat numero="1" devise="euros" prix="19,90">
+        <plat numero="1" devise="euros" prix="19,90"/>
             <intitule>Tartare de Boeuf (200g origine France)</intitule>
             <description>Préparé à l'Italienne (vinaigre balsamique, huile d'olives du Piémont et câpres de Sicile), frites et salade verte</description>
-        <plat numero="2" devise="euros" prix="19,90">
+        <plat numero="2" devise="euros" prix="19,90"/>
             <intitule>Entrecôte de Boeuf (300g origine France)</intitule>
             <description>Crémée de gorgonzola servie avec salade verte et ses frites</description>
-        <plat numero="3" devise="euros" prix="14,90">
+        <plat numero="3" devise="euros" prix="14,90"/>
             <intitule>Cannelloni maison au Boeuf</intitule>
             <description>Coulis de tomates et petits légumes (tomates, aubergines, courgettes, poivrons) et parmesan</description>
-        <dessert numero="1" devise="euros" prix="7">
+        <dessert numero="1" devise="euros" prix="7"/>
             <intitule>Profiteroles</intitule>
             <description>A la vanill, sauce chocolat, chantilly</description>
-        <dessert numero="2" devise="euros" prix="6">
+        <dessert numero="2" devise="euros" prix="6"/>
             <intitule>Glaces et sorbets, biscuits 3 boules</intitule>
             <description>Au choix (Vanille, chocolat, café, citron, framboise)</description>
 </menu>
