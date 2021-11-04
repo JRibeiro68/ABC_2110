@@ -17,7 +17,7 @@ a
     color: black;
 }
 
-p
+p.bordure
 {
     border: 3px solid black;
 }
