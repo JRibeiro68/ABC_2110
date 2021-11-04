@@ -1,3 +1,7 @@
+body
+{
+    background-color: burlywood;
+}
 .imageflottante
 {
     float: right;
@@ -11,4 +15,9 @@ p, li
 a
 {
     color: black;
+}
+
+p
+{
+    border: 3px solid black;
 }
