@@ -29,14 +29,16 @@ public class moyenne {
 		nombre2 = sc.nextFloat();
 		System.out.println("Vous avez saisie le nombre2="+nombre2);
 		
-		//TRAITEMENT
 		
+		
+		//TRAITEMENT
+		//moyenne <-- (nombre1+nombre2)/2
 		moyenne = (nombre1+nombre2)/2;
 		
 		
 		//AFFICHAGE
 		//ecrire "la valeur moyenne est :",moyenne
-		
+		System.out.println("la moyenne des nombres est ="+moyenne);
 		
 	}
 
