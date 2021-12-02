@@ -40,6 +40,8 @@ public class moyenne {
 		//ecrire "la valeur moyenne est :",moyenne
 		System.out.println("la moyenne des nombres est ="+moyenne);
 		
+		sc.close();
+
 	}
 
 }
