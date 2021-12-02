@@ -23,7 +23,7 @@ public class Rayonsphere {
 		//TRAITEMENTS
 		//aire <-- 4*Math.PI*Math.pow(r,2)
 		aire = (float) (4*Math.PI*Math.pow(r,2));
-		//volume <--4/3*Math.PI*Math.pow(r,3=)
+		//volume <--(4/3*Math.PI*Math.pow(r,3=)
 		volume = (float) (4/3*Math.PI*Math.pow(r,3));
 		
 		//AFFICHAGE
