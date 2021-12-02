@@ -8,10 +8,10 @@ public class Rayonsphere {
 		//DECLARATION DES VARIABLES
 		//Réel r
 		float r;
-		//Réel aire
-		float aire;
-		//Réel volume
-		float volume;
+		//Double aire
+		double aire;
+		//Double volume
+		double volume;
 		
 		//SAISIES
 		//ecrire "donnez moi le rayon svp:"
@@ -22,13 +22,13 @@ public class Rayonsphere {
 		
 		//TRAITEMENTS
 		//aire <-- 4*Math.PI*Math.pow(r,2)
-		aire = (float) (4*Math.PI*Math.pow(r,2));
+		aire = (double) (4*Math.PI*Math.pow(r,2));
 		//volume <--(4/3*Math.PI*Math.pow(r,3=)
-		volume = (float) (4/3*Math.PI*Math.pow(r,3));
+		volume = (double) (4d/3*Math.PI*Math.pow(r,3));
 		
 		//AFFICHAGE
-		System.out.println("l'air est de ="+aire);
-		System.out.println("le volume est de ="+volume);
+		System.out.println("l'air est de "+aire);
+		System.out.println("le volume est de "+volume);
 		
 		
 		
