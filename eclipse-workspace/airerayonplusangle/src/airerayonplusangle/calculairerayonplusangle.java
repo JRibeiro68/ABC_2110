@@ -16,6 +16,7 @@ public class calculairerayonplusangle {
 		//Double aire
 		double aire;
 		
+		
 		//SAISIES
 		//ecrire "donnez moi le rayon svp:"
 		System.out.println("Donnez moi le rayon svp:");
@@ -24,7 +25,8 @@ public class calculairerayonplusangle {
 		rayon = sc.nextDouble();
 		//ecrire "donnez moi l'angle a en degrés svp:"
 		System.out.println("donnez moi l'angle a en degrés svp");
-		//lire "aire"
+		//lire "anglea"
+		
 		
 		//TRAITEMENTS
 		//aire <-- Math.PI*Math.pow(r,2)*a/360
