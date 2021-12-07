@@ -39,7 +39,7 @@ public class Inversernombre {
 		
 		
 		//AFFICHAGE
-		//ecrire "a= "+b
+		//ecrire "a= "+c
 		System.out.println("a= "+c);
 		//ecrire "b= "+a
 		System.out.println("b= "+a);

@@ -1,4 +1,4 @@
-package sommesetinterets;
+"package sommesetinterets;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
