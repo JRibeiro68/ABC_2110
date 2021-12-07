@@ -1,5 +1,6 @@
 package sommesetinterets;
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class sommesinteretsannees {
@@ -39,10 +40,11 @@ public class sommesinteretsannees {
 		vaic = (double)(s*Math.pow(1+i,n));
 		
 		//AFFICHAGE
+		DecimalFormat df = new DecimalFormat("0.00");
 		//ecrire "les intérêts simples sont de :"+vais
-		System.out.println("les intérêts simples sont de :"+vais);
+		System.out.println("les intérêts simples sont de :"+df.format(vais));
 		//ecrire "les intérêts composés sont de :"+vaic
-		System.out.println("les intérêts composés sont de :"+vaic);
+		System.out.println("les intérêts composés sont de :"+df.format(vaic));
 
 		
 		sc.close();
