@@ -43,7 +43,6 @@ public class enonce2 {
 			System.out.println("Chercher le livre dans la bibliothèque du salon");
 			System.out.println("avez-vous trouvé le livre Madame Bovary? oui/non");
 			mmeBovaryTrouve = sc.next();
-
 			if(mmeBovaryTrouve.equals("non"))
 			{
 				System.out.println("Aller à la bibliothèque municipale");
