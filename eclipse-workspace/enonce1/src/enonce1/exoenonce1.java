@@ -30,7 +30,8 @@ public class exoenonce1 {
 		System.out.println("Ecrivez le programme");
 		System.out.println("Essayez le programme");
 		
-		
+		sc.close();
+
 	}
 
 }
