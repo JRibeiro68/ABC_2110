@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class enonce2 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)  {
 		// TODO Auto-generated method stub
 
 		String	beauTemps;
@@ -28,7 +28,8 @@ public class enonce2 {
 				System.out.println("Passer chez le garagiste");
 				System.out.println("La réparation est elle immédiate? oui/non");
 				reparation = sc.next();
-				if(reparation.equals("non")) {
+				if(reparation.equals("non")) 
+				{
 
 					System.out.println("Aller à pied à l'étang");
 					System.out.println("Ceuillir des joncs");
@@ -62,13 +63,18 @@ public class enonce2 {
 					System.out.println("Vous plongez dans la lecture");
 				}
 			}
-
+			else {
+				System.out.println("S'installer confortablement dans le fauteuil");
+				System.out.println("Se plonger dans la lecture");
+			}
 		}
+
+
+
+
 		sc.close();
-
-	}		
+	}
 }
-
 
 
 
