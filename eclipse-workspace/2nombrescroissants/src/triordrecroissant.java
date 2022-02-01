@@ -28,7 +28,7 @@ public class triordrecroissant {
 
 
 		//TRAITEMENT
-		//Si	(nombrea < nombreb)
+		//Si	(nombrea < nombreb) Alors
 		if		(nombrea<nombreb) {
 			//ecrire "nombrea < nombreb"
 			System.out.println(nombrea +"<"+ nombreb);
@@ -43,8 +43,8 @@ public class triordrecroissant {
 			//ecrire "nombrea = nombreb"
 			System.out.println(nombrea +" et "+ nombreb +" sont égaux.");
 		}
-		
-		
+
+
 		sc.close();
 	}
 
