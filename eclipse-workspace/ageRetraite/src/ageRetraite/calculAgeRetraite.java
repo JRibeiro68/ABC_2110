@@ -6,7 +6,7 @@ public class calculAgeRetraite {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
 		int ageActuel;
 		System.out.println("indiquez votre âge svp:");
 
@@ -20,8 +20,8 @@ public class calculAgeRetraite {
 		int resultat;
 		if (ageSaisi>0 && ageSaisi<retraite)
 		{
-		resultat = retraite-ageSaisi;
-		return ("il vous reste "+resultat+" ans avant la retraite");
+			resultat = retraite-ageSaisi;
+			return ("il vous reste "+resultat+" ans avant la retraite");
 		}
 		else if (retraite==ageSaisi)
 		{
@@ -30,12 +30,12 @@ public class calculAgeRetraite {
 		else if (ageSaisi>retraite)
 		{
 			resultat = ageSaisi-retraite;
-			return ("Vous êtes à la retraite depuis "+resultat+" an(s). Profitez!!");
+			return ("Vous êtes à la retraite depuis "+resultat+" an(s). Vous pouvez geeker tranquillement !!");
 		}
 		else
 		{
-			return "Avant  de penser à la retraite, vous devriez d'abord apprendre à marcher";
-			
+			return "T'es pas prêt de voir ta retraite mon pauvre.....";
+
 		}
 	}
 
