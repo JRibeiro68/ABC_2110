@@ -13,7 +13,7 @@ public class programme {
 		String uniteDeMesure;
 		double conversion;
 	
-		Scanner sc = new Scanner(system.in);
+		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Entrez une valeur saisie de MI ou KM:");
 		
