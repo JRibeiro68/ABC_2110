@@ -13,8 +13,8 @@ public class exerciceRechercherNombreTableau {
 		boolean estDansTab = false;
 		
 		System.out.println ("Saisissez un nombre entier ");
-		Scanner sca = new Scanner(System.in);
-		nbSaisi = sca.nextInt();
+		Scanner sc = new Scanner(System.in);
+		nbSaisi = sc.nextInt();
 		i = 0;
 		while (i < tab.length) {
 			if (tab[i] == nbSaisi) {
@@ -27,7 +27,7 @@ public class exerciceRechercherNombreTableau {
 			System.out.println ("Le nombre saisi n'est pas dans le tableau.");
 			
 			}
-			sca.close();
+			sc.close();
 		}
 
 	}
